@@ -4,6 +4,8 @@
 
 :fire: Inspired by [laravel](https://laravel.com/docs/5.4/validation) validator library  
 
+![See Demo](https://s3.amazonaws.com/alofe.oluwafemi/ezgif.com-video-to-gif.gif)
+
 Contents
 --------
 * [Installation](#installation)  
@@ -13,7 +15,8 @@ Contents
 * [Examples](#example-usage)  
 * [Adding Custom Rules](#adding-custom-rules)  
 * [Contribute](#contribute)  
-
+* [License](#license)
+ 
 
 ### Installation
 
@@ -422,3 +425,6 @@ Your validation message would have access to the following in order of precedenc
 ### Contribute
 
 We would love for you to contribute and hear from you, and would appreciate :+1: if you share this repo. 
+
+### License
+MIT
